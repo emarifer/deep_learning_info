@@ -141,4 +141,8 @@
 - [Elementos del álgebra lineal en el aprendizaje de maquina](http://repositorio.utp.edu.co/dspace/bitstream/handle/11059/7176/5125O84.pdf?sequence=1&isAllowed=y)
 - [ESTADÍSTICA DESCRIPTIVA, PROBABILIDAD E INFERENCIA. Una visión conceptual y aplicada](http://repositorio.uchile.cl/bitstream/handle/2250/120284/Rustom_Antonio_Estadistica_descriptiva.pdf?sequence=1)
 - [PROBABILIDAD Y ESTADÍSTICA](https://www.cimat.mx/~pabreu/LuisRinconI.pdf)
+- [Álgebra lineal (con aplicaciones y Python)](http://galois.azc.uam.mx/mate/LIBROS/algebralineal2.pdf)
+- [ÁLGEBRA LINEAL](http://matematicas.unex.es/~navarro/algebralineal/meneses.pdf)
+- [Álgebra Lineal](http://cms.dm.uba.ar/depto/public/Curso%20de%20grado/fascgrado2.pdf)
+- [ÁLGEBRA LINEAL](https://nickpgill.github.io/files/2014/07/libro-algebra-lineal.pdf)
 - []()
