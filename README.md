@@ -11,6 +11,7 @@
 - <a href="https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ" target="_blank" rel="noopener noreferrer">AMP Tech</a>
 - <a href="https://www.youtube.com/channel/UCFVF0MpD1lNdU5VL3Pz67Yw" target="_blank" rel="noopener noreferrer">codificandobits</a>
 - <a href="https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg" target="_blank" rel="noopener noreferrer">Dot CSV</a>
+- [Not CSV](https://www.youtube.com/channel/UCOTko-zmnQTcOxSRdg5_uOQ)
 - <a href="https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ" target="_blank" rel="noopener noreferrer">Ringa Tech</a>
 - [Pepe Cantoral, Ph.D. (Canal sobre Deep Learning)](https://www.youtube.com/channel/UCsNnA_5iXEHWMs7VxOYk33Q)
 
@@ -29,7 +30,14 @@
 - [Redes Neuronales (Atecnea)](https://www.youtube.com/playlist?list=PLyDzGuMm1rUFaa2uaXiJUrk5-4VtCen_f)
 - [Redes Convolucionales (Atecnea)](https://www.youtube.com/playlist?list=PLyDzGuMm1rUGE_KTycfUaFIQ3f-mGm8A_)
 - [Fundamentos de Deep Learning con Python y PyTorch](https://www.youtube.com/playlist?list=PLWzLQn_hxe6ZlC9-YMt3nN0Eo-ZpOJuXd)
+- [CURSO: MACHINE LEARNING CON PYTHON](https://www.youtube.com/playlist?list=PLJjOveEiVE4Dk48EI7I-67PEleEC5nxc3)
+- [CURSO: PREPROCESAMIENTO DE DATOS](https://www.youtube.com/playlist?list=PLJjOveEiVE4BK9Vnnl99H2IlYGhmokn1V)
+- [MÓDULOS PARA INTELIGENCIA ARTIFICIAL](https://www.youtube.com/playlist?list=PLJjOveEiVE4B_4fe5cmLDaoFh2uOa_oTh)
+- [Python - numpy: Computación de vectores y arreglos](https://www.youtube.com/playlist?list=PL-fKQ_B8-UNNqJ-0AQuixGbqfO--lIlZy)
+- [Estadistica Inferencial](https://www.youtube.com/playlist?list=PLOGrBzmBZUPPLPnNFNbS4ZV2ORzoCDYmN)
+- [Álgebra para IA y machine learning](https://www.youtube.com/playlist?list=PLM-p96nOrGcY9br7igSl44szI4POQLVH4)
 - <a href="https://www.youtube.com/playlist?list=PLJEe15qBQuSapVCxEUgrjya-GLb5A5w5v" target="_blank" rel="noopener noreferrer">Deep Learning (Enrique Marín -- Lista privada)</a>
+- []()
 
 ### Web Sites con info sobre Deep Learning:
 - <a href="https://www.luisllamas.es/machine-learning-con-tensorflow-y-keras-en-python/" target="_blank" rel="noopener noreferrer">MACHINE LEARNING CON TENSORFLOW Y KERAS EN PYTHON (Introducción - Iniciación)</a>
@@ -106,6 +114,13 @@
 - [Understanding Convolutional Neural Networks with A Mathematical Model](https://arxiv.org/pdf/1609.04112.pdf)
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/pdf/1502.01852v1.pdf)
 - [Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
+- [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+- [9 Deep Learning Papers That You Must Know — Part 1](https://medium.com/x8-the-ai-community/9-deep-learning-papers-that-you-must-know-part-1-d3ac3d5eeb36)
+- [Convolutional Neural Networks (CNN): Softmax & Cross-Entropy](https://www.superdatascience.com/blogs/convolutional-neural-networks-cnn-softmax-crossentropy)
+- [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+- [How to implement a neural network (1/5) - gradient descent](https://peterroelants.github.io/posts/neural-network-implementation-part01/)
+- [Logistic classification with cross-entropy (1/2)](https://peterroelants.github.io/posts/cross-entropy-logistic/)
+- [Softmax classification with cross-entropy (2/2)](https://peterroelants.github.io/posts/cross-entropy-softmax/)
 - []()
 ------------
 
@@ -113,4 +128,17 @@
 - [Plantilla de Pre Procesado - Datos Categóricos](https://colab.research.google.com/drive/1pZVBW4c6Q19cdTNn96V3BMg8jp3NanO6)
 - [Plantilla de Clasificación - Regresión Logística](https://colab.research.google.com/drive/1KM0mIgZ4y8d2OvdxpadQsIUsCW3YAcbR)
 - [Trabajo con Redes Neuronales Artificales (ANN)](https://colab.research.google.com/drive/1ZZQb2IEC76u_z8ifdgDv0xxIsrihuVds)
+- []()
+------------
+
+#### Matemáticas, Estadística, Álgebra Lineal y contenido variado:
+- [Deep Learning desde cero. Capítulo 04 – Grafo Computacional.](https://pybonacci.org/2020/07/22/deep-learning-desde-cero-capitulo-04-grafo-computacional/)
+- [MACHINE LEARNING Y MATEMÁTICAS](https://inteligencia-analitica.com/machine-learning-matematicas/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Mathematics for Machine Learning (book PDF)](https://mml-book.github.io/book/mml-book.pdf)
+- [Mathematics for Machine Learning (GitHub Notebooks)](https://github.com/mml-book/mml-book.github.io)
+- [Fundamentos Matemáticos del Machine Learning (I)](http://www.cs.us.es/~fsancho/?e=169)
+- [Elementos del álgebra lineal en el aprendizaje de maquina](http://repositorio.utp.edu.co/dspace/bitstream/handle/11059/7176/5125O84.pdf?sequence=1&isAllowed=y)
+- [ESTADÍSTICA DESCRIPTIVA, PROBABILIDAD E INFERENCIA. Una visión conceptual y aplicada](http://repositorio.uchile.cl/bitstream/handle/2250/120284/Rustom_Antonio_Estadistica_descriptiva.pdf?sequence=1)
+- [PROBABILIDAD Y ESTADÍSTICA](https://www.cimat.mx/~pabreu/LuisRinconI.pdf)
 - []()
