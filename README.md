@@ -85,6 +85,13 @@
 - [Curso Deep learning con PyTorch](https://mlearninglab.com/2020/03/14/curso-de-introduccion-a-pytorch/)
 - [Fundamentos de PyTorch. Módulo de redes neuronales](https://mlearninglab.com/2020/02/23/fundamentos-de-pytorch-modulo-de-redes-neuronales/)
 - [Neural Networks and Deep Learning (Libro online de Michael Nielsen)](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [What is batch size in neural network?](https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
+- [How to set batch_size, steps_per epoch, and validation steps?](https://datascience.stackexchange.com/questions/29719/how-to-set-batch-size-steps-per-epoch-and-validation-steps)
+- [Meaning of validation_steps in Keras Sequential fit_generator parameter list](https://stackoverflow.com/questions/45943675/meaning-of-validation-steps-in-keras-sequential-fit-generator-parameter-list#:~:text=82,generator%20will%20yield%20validation_steps%20batches.)
+- []()
+- []()
+- []()
 ------------
 
 ### Info complementaria del curso de Udemy «Deep Learning de A a Z:redes neuronales en Python desde cero»:
@@ -122,12 +129,17 @@
 - [Logistic classification with cross-entropy (1/2)](https://peterroelants.github.io/posts/cross-entropy-logistic/)
 - [Softmax classification with cross-entropy (2/2)](https://peterroelants.github.io/posts/cross-entropy-softmax/)
 - []()
+- []()
+- []()
 ------------
 
 #### Cuadernos de Google Colab del curso de Udemy «Deep Learning de A a Z:redes neuronales en Python desde cero»:
 - [Plantilla de Pre Procesado - Datos Categóricos](https://colab.research.google.com/drive/1pZVBW4c6Q19cdTNn96V3BMg8jp3NanO6)
 - [Plantilla de Clasificación - Regresión Logística](https://colab.research.google.com/drive/1KM0mIgZ4y8d2OvdxpadQsIUsCW3YAcbR)
 - [Trabajo con Redes Neuronales Artificales (ANN)](https://colab.research.google.com/drive/1ZZQb2IEC76u_z8ifdgDv0xxIsrihuVds)
+- [Redes Neuronales Convolucionales (CNN) -- Clasificador Cats & Dogs](https://colab.research.google.com/drive/19X7ZwgF-vfraJM9fAbwcY7WgsbegWyOa)
+- []()
+- []()
 - []()
 ------------
 
@@ -145,4 +157,11 @@
 - [ÁLGEBRA LINEAL](http://matematicas.unex.es/~navarro/algebralineal/meneses.pdf)
 - [Álgebra Lineal](http://cms.dm.uba.ar/depto/public/Curso%20de%20grado/fascgrado2.pdf)
 - [ÁLGEBRA LINEAL](https://nickpgill.github.io/files/2014/07/libro-algebra-lineal.pdf)
+- [Estadística y Machine Learning con R](https://bookdown.org/content/2274/portada.html)
+- [Algoritmos resueltos con Python](https://www.editorialeidec.com/wp-content/uploads/2020/10/Algoritmos-resueltos-con-Python.pdf)
+- [CIENCIA DE DATOS CON PYTHON](https://python.eugeniabahit.com/static/pdf/CienciaDeDatosConPython-Ed2018.pdf)
+- [Probabilidad y Estadística con Python](https://relopezbriega.github.io/blog/2015/06/27/probabilidad-y-estadistica-con-python/)
+- [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/)
+- []()
+- []()
 - []()
