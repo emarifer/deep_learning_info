@@ -1,4 +1,4 @@
-## Info diversa sobre Deep Learning
+# Diverse info about Deep Learning
 ------------
 
 ### Glossaries:
@@ -7,7 +7,7 @@
 - [DEEP LEARNING GLOSSARY (Peltarion platform)](https://peltarion.com/knowledge-center/documentation/glossary)
 - [Machine Learning Glossary (Developers Google)](https://developers.google.com/machine-learning/glossary?hl=es_419)
 
-### Canales de Youtube:
+### Youtube Channels:
 - <a href="https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ" target="_blank" rel="noopener noreferrer">AMP Tech</a>
 - <a href="https://www.youtube.com/channel/UCFVF0MpD1lNdU5VL3Pz67Yw" target="_blank" rel="noopener noreferrer">codificandobits</a>
 - <a href="https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg" target="_blank" rel="noopener noreferrer">Dot CSV</a>
@@ -15,7 +15,7 @@
 - <a href="https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ" target="_blank" rel="noopener noreferrer">Ringa Tech</a>
 - [Pepe Cantoral, Ph.D. (Canal sobre Deep Learning)](https://www.youtube.com/channel/UCsNnA_5iXEHWMs7VxOYk33Q)
 
-### Listas de Reproducción de Youtube:
+### Youtube Playlists:
 - <a href="https://www.youtube.com/playlist?list=PLIb_io8a5NB0CP5ktJE9qaLd6GOfh1Z9m" target="_blank" rel="noopener noreferrer">Aprendizaje Profundo (
 3Blue1Brown Español)</a>
 - <a href="https://www.youtube.com/playlist?list=PL8ytk70JVz1-YmW2YnFFDMroi_ZSggFgn" target="_blank" rel="noopener noreferrer">DEEP LEARNING (rlx)</a>
@@ -36,10 +36,12 @@
 - [Python - numpy: Computación de vectores y arreglos](https://www.youtube.com/playlist?list=PL-fKQ_B8-UNNqJ-0AQuixGbqfO--lIlZy)
 - [Estadistica Inferencial](https://www.youtube.com/playlist?list=PLOGrBzmBZUPPLPnNFNbS4ZV2ORzoCDYmN)
 - [Álgebra para IA y machine learning](https://www.youtube.com/playlist?list=PLM-p96nOrGcY9br7igSl44szI4POQLVH4)
-- <a href="https://www.youtube.com/playlist?list=PLJEe15qBQuSapVCxEUgrjya-GLb5A5w5v" target="_blank" rel="noopener noreferrer">Deep Learning (Enrique Marín -- Lista privada)</a>
+- <a href="https://www.youtube.com/playlist?list=PLJEe15qBQuSapVCxEUgrjya-GLb5A5w5v" target="_blank" rel="noopener noreferrer">Deep Learning (Enrique Marín -- Private list)</a>
+- []()
+- []()
 - []()
 
-### Web Sites con info sobre Deep Learning:
+### Web Sites with info about Deep Learning:
 - <a href="https://www.luisllamas.es/machine-learning-con-tensorflow-y-keras-en-python/" target="_blank" rel="noopener noreferrer">MACHINE LEARNING CON TENSORFLOW Y KERAS EN PYTHON (Introducción - Iniciación)</a>
 - [3Blue1Brown (matemáticas y computación «animadas»)](https://www.3blue1brown.com/)
 - [¿Machine Learning en la Nube? Google Colaboratory con GPU! (aprendemachinelearning.com)](https://www.aprendemachinelearning.com/machine-learning-en-la-nube-google-colaboratory-con-gpu/)
@@ -66,6 +68,7 @@
 - [Matplotlib.org](https://matplotlib.org/)
 - [Tutorial Matplotlib (Graficar Gráficos Utilizando pyplot](https://likegeeks.com/es/tutorial-matplotlib/)
 - [Matplotlib Tutorial: Python Plotting (Datacamp)](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python)
+- [Purpose of “%matplotlib inline”](https://stackoverflow.com/questions/43027980/purpose-of-matplotlib-inline#:~:text=%25matplotlib%20inline%20sets%20the%20backend,stored%20in%20the%20notebook%20document.)
 - [Python Numpy Array Tutorial (Datacamp)](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 - [La guía definitiva del paquete NumPy para computación científica en Python (Freecodecamp)](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-del-paquete-numpy-para-computacion-cientifica-en-python/)
 - [Curso intensivo de Python NumPy: Como construir arreglos n-dimensionales para aprendizaje automático (Freecodecamp)](https://www.freecodecamp.org/espanol/news/curso-intensivo-de-python-numpy-como-construir-arreglos-n-dimensionales-para-aprendizaje-automatico/)
@@ -94,7 +97,7 @@
 - []()
 ------------
 
-### Info complementaria del curso de Udemy «Deep Learning de A a Z:redes neuronales en Python desde cero»:
+### Supplemental Udemy Course Info «Deep Learning de A a Z:redes neuronales en Python desde cero»:
 - [Deep Learning de la A a Z: redes neuronales al completo (Material del curso)](https://github.com/joanby/deeplearning-az)
 - [Repositorio del Curso Machine Learning de A a la Z: R y Python para Data Science](https://github.com/joanby/machinelearning-az)
 - [The Ultimate Guide to Regression & Classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
@@ -133,7 +136,7 @@
 - []()
 ------------
 
-#### Cuadernos de Google Colab del curso de Udemy «Deep Learning de A a Z:redes neuronales en Python desde cero»:
+#### Google Colab notebooks from the Udemy course «Deep Learning de A a Z:redes neuronales en Python desde cero»:
 - [Plantilla de Pre Procesado - Datos Categóricos](https://colab.research.google.com/drive/1pZVBW4c6Q19cdTNn96V3BMg8jp3NanO6)
 - [Plantilla de Clasificación - Regresión Logística](https://colab.research.google.com/drive/1KM0mIgZ4y8d2OvdxpadQsIUsCW3YAcbR)
 - [Trabajo con Redes Neuronales Artificales (ANN)](https://colab.research.google.com/drive/1ZZQb2IEC76u_z8ifdgDv0xxIsrihuVds)
@@ -141,10 +144,17 @@
 - []()
 - []()
 - []()
+
+#### Google Colab notebooks from the «Foundations of Deep Learning - 2021» course (University of Antioquia -- Graduate Program, Faculty of Engineering):
+- [Foundations of Deep Learning(2021) -- LAB 01.01 - WARM UP](https://colab.research.google.com/drive/1it9Q1XSoERhnBKTxPZ4FWdD6p42ix6kV#scrollTo=xKW9lFS-RZz9)
+- []()
+- []()
+- []()
 ------------
 
-#### Matemáticas, Estadística, Álgebra Lineal y contenido variado:
+#### Mathematics, Statistics, Linear Algebra and various content:
 - [Deep Learning desde cero. Capítulo 04 – Grafo Computacional.](https://pybonacci.org/2020/07/22/deep-learning-desde-cero-capitulo-04-grafo-computacional/)
+- [The Elements of Statistical Learning – Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf)
 - [MACHINE LEARNING Y MATEMÁTICAS](https://inteligencia-analitica.com/machine-learning-matematicas/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Mathematics for Machine Learning (book PDF)](https://mml-book.github.io/book/mml-book.pdf)
