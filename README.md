@@ -73,6 +73,8 @@
 - [La guía definitiva del paquete NumPy para computación científica en Python (Freecodecamp)](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-del-paquete-numpy-para-computacion-cientifica-en-python/)
 - [Curso intensivo de Python NumPy: Como construir arreglos n-dimensionales para aprendizaje automático (Freecodecamp)](https://www.freecodecamp.org/espanol/news/curso-intensivo-de-python-numpy-como-construir-arreglos-n-dimensionales-para-aprendizaje-automatico/)
 - [Curso intensivo de Python NumPy: Como construir arreglos n-dimensionales para aprendizaje automático (Freecodecamp)](https://www.freecodecamp.org/espanol/news/curso-intensivo-de-python-numpy-como-construir-arreglos-n-dimensionales-para-aprendizaje-automatico/)
+- [Cálculo con arrays Numpy (Python 3 para impacientes)](https://python-para-impacientes.blogspot.com/2019/12/calculo-con-arrays-numpy.html)
+- [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/aio.html)
 - [Keras Tutorial: Deep Learning in Python (Datacamp)](https://www.datacamp.com/community/tutorials/deep-learning-python)
 - [TensorFlow Tutorial For Beginners (Datacamp)](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 - [Convolutional Neural Networks with TensorFlow (Datacamp)](https://www.datacamp.com/community/tutorials/cnn-tensorflow-python)
