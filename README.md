@@ -149,6 +149,7 @@
 
 #### Google Colab notebooks from the «Foundations of Deep Learning - 2021» course (University of Antioquia -- Graduate Program, Faculty of Engineering):
 - [Foundations of Deep Learning(2021) -- LAB 01.01 - WARM UP](https://colab.research.google.com/drive/1it9Q1XSoERhnBKTxPZ4FWdD6p42ix6kV#scrollTo=xKW9lFS-RZz9)
+- [Foundations of Deep Learning (2021) -- Classifying Fashion-MNIST (2.2 - The Multilayer Perceptron [ANN])](https://colab.research.google.com/drive/10nG-t4dDtIe6N_3UskuunnE7MTTqWbq6)
 - []()
 - []()
 - []()
