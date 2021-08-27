@@ -14,6 +14,7 @@
 - [Not CSV](https://www.youtube.com/channel/UCOTko-zmnQTcOxSRdg5_uOQ)
 - <a href="https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ" target="_blank" rel="noopener noreferrer">Ringa Tech</a>
 - [Pepe Cantoral, Ph.D. (Canal sobre Deep Learning)](https://www.youtube.com/channel/UCsNnA_5iXEHWMs7VxOYk33Q)
+- [cctmexico (Canal sobre temas de Python en general)](https://www.youtube.com/channel/UCvJpU1VFBMX3rPdCYt10QZw)
 
 ### Youtube Playlists:
 - <a href="https://www.youtube.com/playlist?list=PLIb_io8a5NB0CP5ktJE9qaLd6GOfh1Z9m" target="_blank" rel="noopener noreferrer">Aprendizaje Profundo (
@@ -37,6 +38,7 @@
 - [Estadistica Inferencial](https://www.youtube.com/playlist?list=PLOGrBzmBZUPPLPnNFNbS4ZV2ORzoCDYmN)
 - [Álgebra para IA y machine learning](https://www.youtube.com/playlist?list=PLM-p96nOrGcY9br7igSl44szI4POQLVH4)
 - <a href="https://www.youtube.com/playlist?list=PLJEe15qBQuSapVCxEUgrjya-GLb5A5w5v" target="_blank" rel="noopener noreferrer">Deep Learning (Enrique Marín -- Private list)</a>
+- [Curso TensorFlow js en Español](https://www.youtube.com/playlist?list=PLCTD_CpMeEKSEOKBFyG6PxQOAvQc7HZSB)
 - []()
 - []()
 - []()
@@ -94,6 +96,7 @@
 - [What is batch size in neural network?](https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network)
 - [How to set batch_size, steps_per epoch, and validation steps?](https://datascience.stackexchange.com/questions/29719/how-to-set-batch-size-steps-per-epoch-and-validation-steps)
 - [Meaning of validation_steps in Keras Sequential fit_generator parameter list](https://stackoverflow.com/questions/45943675/meaning-of-validation-steps-in-keras-sequential-fit-generator-parameter-list#:~:text=82,generator%20will%20yield%20validation_steps%20batches.)
+- [Autoencoders: explicación y tutorial en Python](https://www.codificandobits.com/blog/autoencoders-explicacion-y-tutorial-python/)
 - []()
 - []()
 - []()
@@ -151,6 +154,33 @@
 - [Foundations of Deep Learning(2021) -- LAB 01.01 - WARM UP](https://colab.research.google.com/drive/1it9Q1XSoERhnBKTxPZ4FWdD6p42ix6kV#scrollTo=xKW9lFS-RZz9)
 - [Foundations of Deep Learning (2021) -- Classifying Fashion-MNIST (2.2 - The Multilayer Perceptron [ANN])](https://colab.research.google.com/drive/10nG-t4dDtIe6N_3UskuunnE7MTTqWbq6)
 - [Foundations of Deep Learning (2021) -- Animación de los resultados una clasificación por regresión logística](https://colab.research.google.com/drive/1QWJ8uQmfr4FgSfq01mYdldKiJt1FwH2A)
+- []()
+- []()
+- []()
+------------
+
+#### Logistic regression model, Cross-Entropy Loss, Gradient Descent, Probability, random variables and regressions:
+- [Regresión logística (Wikipedia)](https://es.wikipedia.org/wiki/Regresi%C3%B3n_log%C3%ADstica)
+- [Regresión Logística con Python paso a paso (Aprende machine learning)](https://www.aprendemachinelearning.com/regresion-logistica-con-python-paso-a-paso/)
+- [¿Cómo trazar el límite de decisión de una regresión logística? (Datascience Stackexchange)](https://datascience.stackexchange.com/questions/49573/how-to-plot-logistic-regression-decision-boundary)
+- [Plotting the decision boundary of a logistic regression model](https://scipython.com/blog/plotting-the-decision-boundary-of-a-logistic-regression-model/)
+- [Regresión Logística en Python y R. Machine Learning #02](https://dtellogaete.medium.com/regresi%C3%B3n-log%C3%ADstica-en-python-y-r-machine-learning-02-fa066b3add09)
+- [FEIR 45: Regresión logística](https://gauss.inf.um.es/feir/45/)
+- [plotting decision boundary of logistic regression](https://stackoverflow.com/questions/28256058/plotting-decision-boundary-of-logistic-regression)
+- [Cross-Entropy Loss in ML](https://medium.com/unpackai/cross-entropy-loss-in-ml-d9f22fc11fe0)
+- [Cross-Entropy Loss and Its Applications in Deep Learning](https://neptune.ai/blog/cross-entropy-loss-and-its-applications-in-deep-learning)
+- [Modelos: Probabilidad y variables aleatorias](https://www.cartagena99.com/recursos/alumnos/apuntes/E3.pdf)
+- [A Brief History of Neural Nets and Deep Learning](https://www.skynettoday.com/overviews/neural-net-history)
+- [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
+- [Can we derive cross entropy formula as maximum likelihood estimation for SOFT LABELS? (Criterio de máxima verosimilitud)](https://stats.stackexchange.com/questions/490062/can-we-derive-cross-entropy-formula-as-maximum-likelihood-estimation-for-soft-la)
+- [Gradient Descent](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html)
+- [On Logistic Regression: Gradients of the Log Loss, Multi-Class Classification, and Other Optimization Techniques](https://home.ttic.edu/~suriya/website-intromlss2018/course_material/Day3b.pdf)
+- [Función de costo de entropía cruzada (función y derivación de fórmula)](https://programmerclick.com/article/7176806708/)
+- [Approximating the Gradient of Cross-Entropy Loss Function](https://ieeexplore.ieee.org/document/9113308)
+- [Deep Learning - Cross Entropy Loss Derivative](http://machinelearningmechanic.com/deep_learning/2019/09/04/cross-entropy-loss-derivative.html)
+- [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [¿En qué consiste la regresión logística? ¿Qué es la regularización?](https://themachinelearners.com/regresion-logistica-regularizacion/)
+- [Clasificación y regresión logística](http://verso.mat.uam.es/~joser.berrendero/cursos/Matematicas-e2/e2-tema4-16.pdf)
 - []()
 - []()
 - []()
