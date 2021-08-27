@@ -154,6 +154,7 @@
 - [Foundations of Deep Learning(2021) -- LAB 01.01 - WARM UP](https://colab.research.google.com/drive/1it9Q1XSoERhnBKTxPZ4FWdD6p42ix6kV#scrollTo=xKW9lFS-RZz9)
 - [Foundations of Deep Learning (2021) -- Classifying Fashion-MNIST (2.2 - The Multilayer Perceptron [ANN])](https://colab.research.google.com/drive/10nG-t4dDtIe6N_3UskuunnE7MTTqWbq6)
 - [Foundations of Deep Learning (2021) -- Animación de los resultados una clasificación por regresión logística](https://colab.research.google.com/drive/1QWJ8uQmfr4FgSfq01mYdldKiJt1FwH2A)
+- [Foundations of Deep Learning (2021) -- 2.4 - Loss functions in TensorFlow (U2.04)](https://colab.research.google.com/drive/1DuEPBXELTuEYzdkf-Zotw4c_NBOB328x)
 - []()
 - []()
 - []()
