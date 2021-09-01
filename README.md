@@ -44,6 +44,7 @@
 - []()
 
 ### Web Sites with info about Deep Learning:
+- [APRENDIZAJE PROFUNDO -- Instructores (Yann LeCun & Alfredo Canziani)](https://atcold.github.io/pytorch-Deep-Learning/es/)
 - <a href="https://www.luisllamas.es/machine-learning-con-tensorflow-y-keras-en-python/" target="_blank" rel="noopener noreferrer">MACHINE LEARNING CON TENSORFLOW Y KERAS EN PYTHON (Introducción - Iniciación)</a>
 - [3Blue1Brown (matemáticas y computación «animadas»)](https://www.3blue1brown.com/)
 - [¿Machine Learning en la Nube? Google Colaboratory con GPU! (aprendemachinelearning.com)](https://www.aprendemachinelearning.com/machine-learning-en-la-nube-google-colaboratory-con-gpu/)
@@ -155,6 +156,7 @@
 - [Foundations of Deep Learning (2021) -- Classifying Fashion-MNIST (2.2 - The Multilayer Perceptron [ANN])](https://colab.research.google.com/drive/10nG-t4dDtIe6N_3UskuunnE7MTTqWbq6)
 - [Foundations of Deep Learning (2021) -- Animación de los resultados una clasificación por regresión logística](https://colab.research.google.com/drive/1QWJ8uQmfr4FgSfq01mYdldKiJt1FwH2A)
 - [Foundations of Deep Learning (2021) -- 2.4 - Loss functions in TensorFlow (U2.04)](https://colab.research.google.com/drive/1DuEPBXELTuEYzdkf-Zotw4c_NBOB328x)
+- [Foundations of Deep Learning (2021) -- 2.5 - Autoencoders ( U2.05)](https://colab.research.google.com/drive/1hvYhiCC2DfccbpdleBZ1Ku-szN29oblc#scrollTo=f9n3M5mcfMrd)
 - []()
 - []()
 - []()
