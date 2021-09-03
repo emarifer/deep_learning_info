@@ -184,6 +184,7 @@
 - [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [¿En qué consiste la regresión logística? ¿Qué es la regularización?](https://themachinelearners.com/regresion-logistica-regularizacion/)
 - [Clasificación y regresión logística](http://verso.mat.uam.es/~joser.berrendero/cursos/Matematicas-e2/e2-tema4-16.pdf)
+- [Matriz de Confusión en Scikit Learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
 - []()
 - []()
 - []()
