@@ -45,6 +45,7 @@
 
 ### Web Sites with info about Deep Learning:
 - [APRENDIZAJE PROFUNDO -- Instructores (Yann LeCun & Alfredo Canziani)](https://atcold.github.io/pytorch-Deep-Learning/es/)
+- [Neural Networks Tutorial – A Pathway to Deep Learning](https://adventuresinmachinelearning.com/neural-networks-tutorial/)
 - <a href="https://www.luisllamas.es/machine-learning-con-tensorflow-y-keras-en-python/" target="_blank" rel="noopener noreferrer">MACHINE LEARNING CON TENSORFLOW Y KERAS EN PYTHON (Introducción - Iniciación)</a>
 - [3Blue1Brown (matemáticas y computación «animadas»)](https://www.3blue1brown.com/)
 - [¿Machine Learning en la Nube? Google Colaboratory con GPU! (aprendemachinelearning.com)](https://www.aprendemachinelearning.com/machine-learning-en-la-nube-google-colaboratory-con-gpu/)
